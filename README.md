@@ -10,9 +10,10 @@
 <h2><b>Skills</b></h2>
 <ul>
 <li>Python</li>
-<li>Scripting such as Bash and Powershell</li>
+<li>Scripting such as Bash and Powershell and <b>@EVERYTHING</b> Linux</li>
 <li>Networks, IOT OF THINGS Rasberry Pi</li>
 <li>Html, Css</li>
+<li>Sql</li>
 <li>Basic understanding of C#, C++ and Java</li>
 </ul>
 
